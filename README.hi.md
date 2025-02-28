@@ -10,7 +10,7 @@
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
--   [नोकदार](./NX.md)
+-   [Nx](./NX.md)
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
@@ -18,7 +18,7 @@
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Text
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
