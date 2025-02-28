@@ -13,6 +13,6 @@ Acceptance criteria:
 
 * **Tools**:
 
-  - [StoriesOnBoard](https://storiesonboard.com/) (): ...
+  - [StoriesOnBoard](https://storiesonboard.com/) (): you create in StoriesOnBoard a user story under the "Audio Control" theme in your roadmap.
   - [ActivePieces](https://www.activepieces.com/) (): ActivePieces automatically links this story to the original customer feedback in Flowlu.
-  - [Flowlu](https://www.flowlu.com/) (): ...
+  - [Flowlu](https://www.flowlu.com/) (): contains the original customer feedback.
