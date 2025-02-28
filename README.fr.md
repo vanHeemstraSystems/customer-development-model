@@ -14,7 +14,7 @@ modèle de développement client
 -   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
--   [Télémétrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Résumé exécutif**
 
