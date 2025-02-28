@@ -1,4 +1,4 @@
-customer-development-model
+modèle de développement client
 
 # Modèle de développement client
 
