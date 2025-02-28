@@ -1,4 +1,4 @@
-نموذج تطوير العملاء
+customer-development-model
 
 # نموذج تطوير العملاء
 
