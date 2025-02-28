@@ -1,6 +1,6 @@
-nom de référentiel
+modèle de développement client
 
-# Nom de référentiel
+# Modèle de développement client
 
 > Lisc
 
@@ -8,7 +8,7 @@ nom de référentiel
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Trappe](./HATCH.md)
--   [Hosts](./HOSTS.md)
+-   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
