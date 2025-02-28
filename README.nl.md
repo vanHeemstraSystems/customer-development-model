@@ -1,13 +1,13 @@
-klantontwikkelingsmodel
+customer-development-model
 
-# Klantontwikkelingsmodel
+# Customer Development Model
 
 > Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [Klep](./HATCH.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
