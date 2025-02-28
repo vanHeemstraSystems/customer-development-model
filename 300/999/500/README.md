@@ -1,6 +1,6 @@
 # 500 - Jobs-to-be-Done
 
-## 100 - Analyze JTBD Interview Results
+## 100 - Analyze Jobs-to-be-Done (JTBD) Interview Results
 
 See [README.md](./100/README.md)
 
