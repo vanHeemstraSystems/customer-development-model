@@ -1,4 +1,4 @@
-klantontwikkelingsmodel
+customer-development-model
 
 # Klantontwikkelingsmodel
 
@@ -8,10 +8,10 @@ klantontwikkelingsmodel
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Klep](./HATCH.md)
--   [Gastheren](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Hosts](./HOSTS.md)
+-   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
