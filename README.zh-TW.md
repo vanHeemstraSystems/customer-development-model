@@ -2,7 +2,7 @@
 
 # 客戶開發模型
 
-> 板條
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -30,7 +30,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300-構建我們的應用程序
 
 看[README.md](./300/README.md)
 
