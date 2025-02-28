@@ -1,4 +1,4 @@
-customer-development-model
+ग्राहक-विकास-मॉडल
 
 # ग्राहक विकास मॉडल
 
@@ -7,7 +7,7 @@ customer-development-model
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
