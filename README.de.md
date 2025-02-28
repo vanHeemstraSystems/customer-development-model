@@ -1,11 +1,11 @@
-Repository-Namen
+customer-development-model
 
-# Repository -Name
+# Kundenentwicklungsmodell
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Dokumentation](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
@@ -32,7 +32,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
