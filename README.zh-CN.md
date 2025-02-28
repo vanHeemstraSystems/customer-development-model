@@ -1,6 +1,6 @@
-repository-name
+客户开发模型
 
-# 存储库名称
+# 客户开发模型
 
 > 板条
 
@@ -16,7 +16,7 @@ repository-name
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
-**执行摘要**
+**Executive Summary**
 
 文本
 
