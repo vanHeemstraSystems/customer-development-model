@@ -2,7 +2,7 @@
 
 # 客戶開發模型
 
-> Slugline
+> 板條
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -36,4 +36,4 @@
 
 ## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
