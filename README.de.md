@@ -1,18 +1,18 @@
 customer-development-model
 
-# Kundenentwicklungsmodell
+# Customer Development Model
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Dokumentation](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
 -   [Subman](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
