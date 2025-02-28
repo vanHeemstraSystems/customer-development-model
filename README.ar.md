@@ -1,6 +1,6 @@
 نموذج تطوير العملاء
 
-# نموذج تطوير العملاء
+# Customer Development Model
 
 > Slugline
 
