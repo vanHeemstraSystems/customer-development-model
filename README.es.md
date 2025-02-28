@@ -1,13 +1,13 @@
-customer-development-model
+modelo de desarrollo del cliente
 
-# Modelo de desarrollo del cliente
+# Customer Development Model
 
 > Línea de babosa
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Escotilla](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
