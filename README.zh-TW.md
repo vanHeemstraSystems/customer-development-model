@@ -13,14 +13,14 @@
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [要求](./REQUIREMENTS.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-簡介
 
