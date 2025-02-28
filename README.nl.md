@@ -1,6 +1,6 @@
-customer-development-model
+klantontwikkelingsmodel
 
-# Customer Development Model
+# Klantontwikkelingsmodel
 
 > Sluglijn
 
