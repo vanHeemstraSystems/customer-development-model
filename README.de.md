@@ -1,13 +1,13 @@
 Kundenentwicklungsmodell
 
-# Customer Development Model
+# Kundenentwicklungsmodell
 
 > Slugline
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
@@ -16,7 +16,7 @@ Kundenentwicklungsmodell
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
@@ -34,6 +34,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Schlussfolgerung
 
 Sehen[README.md](./400/README.md)
