@@ -11,18 +11,18 @@ klantontwikkelingsmodel
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
--   [Referenties](./REFERENCES.md)
+-   [Subman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Uitvoerende samenvatting**
 
 Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
@@ -36,4 +36,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
