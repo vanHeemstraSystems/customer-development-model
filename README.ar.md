@@ -5,11 +5,11 @@
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
@@ -20,7 +20,7 @@
 
 نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
