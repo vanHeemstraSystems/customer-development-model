@@ -4,17 +4,17 @@
 
 > स्लगलाइन
 
--   [DNS](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [डीएनएस](./DNS.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
@@ -24,7 +24,7 @@
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
@@ -34,6 +34,6 @@ See [README.md](./200/README.md)
 
 देखना[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - निष्कर्ष
 
 देखना[README.md](./400/README.md)
