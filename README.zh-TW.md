@@ -2,7 +2,7 @@
 
 # 客戶開發模型
 
-> Slugline
+> 板條
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
