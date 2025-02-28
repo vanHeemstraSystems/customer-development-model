@@ -1,6 +1,6 @@
 Kundenentwicklungsmodell
 
-# Customer Development Model
+# Kundenentwicklungsmodell
 
 > Slugline
 
