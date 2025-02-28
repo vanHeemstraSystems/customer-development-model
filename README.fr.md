@@ -1,4 +1,4 @@
-modèle de développement client
+customer-development-model
 
 # Modèle de développement client
 
@@ -7,7 +7,7 @@ modèle de développement client
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [Trappe](./HATCH.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
