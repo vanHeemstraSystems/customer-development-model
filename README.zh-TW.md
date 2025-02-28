@@ -14,13 +14,13 @@
 -   [Podman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-Generated with [Rytr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -36,4 +36,4 @@ Generated with [Rytr](https://app.rytr.me)
 
 ## 400-結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
