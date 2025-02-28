@@ -2,7 +2,10 @@
 
 **Use Case**: Music
 
-* **Information gathered**: After final approval, you choose to squash and merge to main to create a clean commit history. GitHub Actions runs a final build and test cycle.StoriesOnBoard automatically updates the roadmap to show this feature as completed.
+* **Information gathered**: 
+  <br/>After final approval, you choose to squash and merge to main to create a clean commit history. 
+  - GitHub Actions runs a final build and test cycle.
+  - StoriesOnBoard automatically updates the roadmap to show this feature as completed.
 
 * **Tools**:
 
