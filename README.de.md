@@ -5,7 +5,7 @@ Kundenentwicklungsmodell
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
@@ -16,11 +16,11 @@ Kundenentwicklungsmodell
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Erzeugt mit[Rytr](https://app.rytr.me)
 
 ## 100 - Einführung
 
@@ -32,7 +32,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
