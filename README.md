@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+customer-development-model
+# Customer Development Model
 
 > Slugline
 
