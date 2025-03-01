@@ -27,6 +27,27 @@ classDiagram
 
 ### StoriesOnBoards - CQRS Pattern (Command Query Responsibility Segregation)
 
+```mermaid
+flowchart TB
+    Client[Client Application]
+    CommandBus[Command Bus]
+    QueryBus[Query Bus]
+    CommandHandler[Canvas Command Handler]
+    QueryHandler[Canvas Query Handler]
+    WriteDB[(Write Database)]
+    ReadDB[(Read Database)]
+    Sync[Synchronization Service]
+    
+    Client -->|Create/Update Canvas| CommandBus
+    Client -->|Request Canvas Data| QueryBus
+    CommandBus --> CommandHandler
+    QueryBus --> QueryHandler
+    CommandHandler --> WriteDB
+    QueryHandler --> ReadDB
+    WriteDB --> Sync
+    Sync --> ReadDB
+```
+
 ### Flowlu - Event-Driven Architecture
 
 ### ActivePieces - Pipes and Filters Pattern
