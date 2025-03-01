@@ -1,13 +1,13 @@
 ग्राहक-विकास-मॉडल
 
-# ग्राहक विकास मॉडल
+# Customer Development Model
 
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
@@ -18,9 +18,9 @@
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Text
 
-के साथ उत्पन्न[रिट्र](https://app.rytr.me)
+Generated with [रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
