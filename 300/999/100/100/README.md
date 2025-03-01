@@ -10,11 +10,11 @@
   - [StoriesOnBoard](https://storiesonboard.com/) (for visual mapping of business model canvas): for visualizing different user personas (casual listeners, audiophiles, etc.).
   - [Flowlu](https://www.flowlu.com/) (for project planning and hypothesis documentation): ...
 
-# Step-by-Step Process for "Define your vision and hypotheses" with NotePlan and StoriesOnBoard
+## Step-by-Step Process for "Define your vision and hypotheses" with NotePlan and StoriesOnBoard
 
 Here's a detailed breakdown of how to effectively define your vision and hypotheses for a music app using the specified tools:
 
-## 1. Initial Vision Documentation in NotePlan
+### 1. Initial Vision Documentation in NotePlan
 
 1. **Create a dedicated project folder** in NotePlan titled "Music App Vision"
    - Use the folder structure feature to keep all related notes organized
@@ -42,7 +42,7 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
    - Include columns for: Hypothesis ID, Description, Validation Method, Status, Results
    - Use NotePlan's task/checkbox feature to mark which hypotheses need immediate testing
 
-## 2. Visual Mapping in StoriesOnBoard
+### 2. Visual Mapping in StoriesOnBoard
 
 1. **Create a new product board** titled "Music App Development"
    - Set up your workspace with proper user access and permissions
@@ -72,7 +72,7 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
    - Under each feature, list the core hypotheses it addresses
    - Use priority markers to indicate which features should be built first based on hypothesis importance
 
-## 3. Integration and Collaboration Between Tools
+### 3. Integration and Collaboration Between Tools
 
 1. **Sync documentation between platforms**
    - Export key NotePlan documents as Markdown and attach them to StoriesOnBoard cards
