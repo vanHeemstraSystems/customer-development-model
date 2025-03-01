@@ -18,7 +18,7 @@
 
 **執行摘要**
 
-文字
+Text
 
 生成[ritr](https://app.rytr.me)
 
