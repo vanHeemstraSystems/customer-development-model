@@ -14,7 +14,7 @@ Kundenentwicklungsmodell
 -   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -26,7 +26,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
