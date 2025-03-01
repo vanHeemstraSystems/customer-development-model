@@ -1,8 +1,8 @@
 ग्राहक-विकास-मॉडल
 
-# Customer Development Model
+# ग्राहक विकास मॉडल
 
-> स्लगलाइन
+> Slugline
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
@@ -18,15 +18,15 @@
 
 **कार्यकारी सारांश**
 
-Text
+मूलपाठ
 
-Generated with [रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
@@ -36,4 +36,4 @@ Generated with [रिट्र](https://app.rytr.me)
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
