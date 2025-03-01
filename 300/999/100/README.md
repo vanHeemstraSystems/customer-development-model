@@ -50,6 +50,26 @@ flowchart TB
 
 ### Flowlu - Event-Driven Architecture
 
+```mermaid
+flowchart LR
+    MusicApp[Music App Client]
+    EventBus[Event Bus]
+    CustomerSvc[Customer Service]
+    FeedbackSvc[Feedback Service]
+    AnalyticsSvc[Analytics Service]
+    NotificationSvc[Notification Service]
+    
+    MusicApp -->|Publish Events| EventBus
+    EventBus -->|Customer Events| CustomerSvc
+    EventBus -->|Feedback Events| FeedbackSvc
+    EventBus -->|User Activity Events| AnalyticsSvc
+    EventBus -->|Alert Events| NotificationSvc
+    
+    CustomerSvc -.->|Publish Domain Events| EventBus
+    FeedbackSvc -.->|Publish Domain Events| EventBus
+    AnalyticsSvc -.->|Publish Insight Events| EventBus
+```
+
 ### ActivePieces - Pipes and Filters Pattern
 
 ### Visual Studio Code - Plugin Architecture Pattern
