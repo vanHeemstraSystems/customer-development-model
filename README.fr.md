@@ -13,7 +13,7 @@ modèle de développement client
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
@@ -26,7 +26,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - exigences
 
 Voir[README.md](./200/README.md)
 
