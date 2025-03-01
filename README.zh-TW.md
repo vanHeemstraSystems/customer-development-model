@@ -20,7 +20,7 @@
 
 文字
 
-生成[Rytr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -34,6 +34,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-結論
 
 看[README.md](./400/README.md)
