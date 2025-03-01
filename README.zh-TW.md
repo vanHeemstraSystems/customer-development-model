@@ -18,9 +18,9 @@
 
 **執行摘要**
 
-Text
+文字
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -34,6 +34,6 @@ Text
 
 看[README.md](./300/README.md)
 
-## 400-結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
