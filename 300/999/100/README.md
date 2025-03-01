@@ -1,5 +1,42 @@
 # 100 - Customer Discovery
 
+### NotePlan - Repository Pattern
+
+```mermaid
+classDiagram
+    class Client {
+      +createHypothesis()
+      +retrieveHypothesis()
+      +updateHypothesis()
+    }
+    class HypothesisRepository {
+      +save(hypothesis)
+      +findById(id)
+      +findAll()
+      +update(hypothesis)
+    }
+    class NotePlanStorage {
+      -connection
+      +saveToNotes(data)
+      +fetchFromNotes(query)
+      +updateNote(id, data)
+    }
+    Client --> HypothesisRepository
+    HypothesisRepository --> NotePlanStorage
+```
+
+### StoriesOnBoards - CQRS Pattern (Command Query Responsibility Segregation)
+
+### Flowlu - Event-Driven Architecture
+
+### ActivePieces - Pipes and Filters Pattern
+
+### Visual Studio Code - Plugin Architecture Pattern
+
+### GitHub - Gitflow Workflow Pattern
+
+### Cursor.io - AI-Enhanced Middleware Pattern
+
 ## 100 - Define Your Vision and Hypotheses
 
 See [README.md](./100/README.md)
