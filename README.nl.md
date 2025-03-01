@@ -18,9 +18,9 @@ klantontwikkelingsmodel
 
 **Uitvoerende samenvatting**
 
-Text
+Tekst
 
-Generated with [Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
