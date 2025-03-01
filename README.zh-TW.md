@@ -8,7 +8,7 @@
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
--   [主持人](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
@@ -28,12 +28,12 @@
 
 ## 200-要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300-構建我們的應用程序
 
 看[README.md](./300/README.md)
 
-## 400-結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
