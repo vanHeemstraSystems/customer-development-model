@@ -56,7 +56,10 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
    - Set up your workspace with proper user access and permissions
    - Configure board settings for hypothesis tracking
 
-2. **Build a Business Model Canvas view**
+   ![Image](https://github.com/user-attachments/assets/0b7d6749-42f1-4996-b3a5-68800058c70b)
+   https://demonstrationorganiz.storiesonboard.com/music-app/dashboard
+
+3. **Build a Business Model Canvas view**
    - Create dedicated sections for:
      * Value propositions (e.g., "Community-curated playlists", "Genre exploration tools")
      * Customer segments (map to personas from NotePlan)
@@ -64,18 +67,18 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
      * Revenue streams (subscription tiers, potential partnership opportunities)
      * Key resources, activities, partners, and cost structure
 
-3. **Create a hypothesis map**
+4. **Create a hypothesis map**
    - Set up a dedicated view for hypothesis visualization
    - Organize hypotheses in clusters (User Problem, Solution Fit, Business Model)
    - Use color coding to indicate priority level and validation status
    - Add connections between related hypotheses to show dependencies
 
-4. **Build user journey maps**
+5. **Build user journey maps**
    - For each persona, map their current music discovery journey
    - Identify pain points and opportunities along this journey
    - Create a parallel "future state" journey showing how your music app addresses these issues
 
-5. **Develop a feature hypotheses board**
+6. **Develop a feature hypotheses board**
    - Create cards for each proposed feature (e.g., "Social playlist sharing", "Genre exploration tool")
    - Under each feature, list the core hypotheses it addresses
    - Use priority markers to indicate which features should be built first based on hypothesis importance
