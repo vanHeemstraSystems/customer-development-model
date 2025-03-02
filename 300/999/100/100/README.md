@@ -30,6 +30,8 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
    - Define 3-5 detailed user personas (e.g., "Maria: The Playlist Curator", "Alex: The Genre Explorer")
    - For each persona, document demographics, behavior patterns, goals, and pain points
    - Use NotePlan's checklist feature to identify which personas are primary vs. secondary
+  
+   ![Image](https://github.com/user-attachments/assets/b41476c1-494e-4bd1-ac3d-09fbe4dbfc7a)
 
 4. **Document assumptions and hypotheses**
    - Create a dedicated note for business hypotheses:
