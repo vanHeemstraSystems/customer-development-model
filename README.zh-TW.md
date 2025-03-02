@@ -7,16 +7,16 @@
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
--   [遙測](./TELEMETRY.md)
+-   [要求](./REQUIREMENTS.md)
+-   [Telemetry](./TELEMETRY.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
@@ -28,7 +28,7 @@
 
 ## 200-要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300-構建我們的應用程序
 
