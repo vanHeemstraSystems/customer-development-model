@@ -1,11 +1,11 @@
-customer-development-model
+modelo de desarrollo del cliente
 
 # Modelo de desarrollo del cliente
 
 > Línea de babosa
 
 -   [DNS](./DNS.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
@@ -22,11 +22,11 @@ Texto
 
 Generado con[Ritro](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
