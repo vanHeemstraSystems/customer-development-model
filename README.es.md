@@ -1,4 +1,4 @@
-modelo de desarrollo del cliente
+customer-development-model
 
 # Modelo de desarrollo del cliente
 
@@ -22,11 +22,11 @@ Texto
 
 Generado con[Ritro](https://app.rytr.me)
 
-## 100 - Introducción
+## 100 - Introduction
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
