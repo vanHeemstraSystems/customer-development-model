@@ -2,7 +2,7 @@ modèle de développement client
 
 # Modèle de développement client
 
-> Slugline
+> Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
