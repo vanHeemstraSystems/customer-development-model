@@ -1,4 +1,4 @@
-customer-development-model
+modelo de desarrollo del cliente
 
 # Modelo de desarrollo del cliente
 
@@ -16,7 +16,7 @@ customer-development-model
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
