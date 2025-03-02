@@ -1,6 +1,6 @@
-客户开发模型
+customer-development-model
 
-# 客户开发模型
+# Customer Development Model
 
 > 板条
 
@@ -11,7 +11,7 @@
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
@@ -26,7 +26,7 @@
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
 看[README.md](./200/README.md)
 
