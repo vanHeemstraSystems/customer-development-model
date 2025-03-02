@@ -1,4 +1,4 @@
-customer-development-model
+客户开发模型
 
 # 客户开发模型
 
@@ -20,7 +20,7 @@ customer-development-model
 
 文本
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-简介
 
