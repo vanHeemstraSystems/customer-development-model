@@ -2,7 +2,7 @@ klantontwikkelingsmodel
 
 # Klantontwikkelingsmodel
 
-> Slugline
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
