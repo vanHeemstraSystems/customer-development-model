@@ -40,6 +40,8 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
      * "People are willing to pay for better music discovery tools"
    - For each hypothesis, note current confidence level and validation criteria
    - Link related hypotheses together using NotePlan's internal linking feature
+  
+   ![Image](https://github.com/user-attachments/assets/d7db305d-9152-4b37-9b7f-bd1f0096c7fc)
 
 5. **Set up a validation tracking system**
    - Create a dedicated note with a table structure for tracking hypothesis validation
