@@ -47,6 +47,8 @@ Here's a detailed breakdown of how to effectively define your vision and hypothe
    - Create a dedicated note with a table structure for tracking hypothesis validation
    - Include columns for: Hypothesis ID, Description, Validation Method, Status, Results
    - Use NotePlan's task/checkbox feature to mark which hypotheses need immediate testing
+  
+   ![Image](https://github.com/user-attachments/assets/1d3bf854-f309-4fa0-82de-c1c9c0e73ad4)
 
 ### 2. Visual Mapping in StoriesOnBoard
 
