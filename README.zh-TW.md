@@ -1,6 +1,6 @@
 客戶開發模型
 
-# 客戶開發模型
+# Customer Development Model
 
 > 板條
 
